@@ -1,6 +1,11 @@
 {
   "articles": {
-    "hello-world": "/daily/2024/01-17_hello-world.md"
+    "hello-world": {
+      "path": "/daily/2024/01-17_hello-world.md",
+      "title": "Hello World",
+      "category": "daily",
+      "date": "2024-01-17"
+    }
   },
   "drafts": [
     "test-draft"
